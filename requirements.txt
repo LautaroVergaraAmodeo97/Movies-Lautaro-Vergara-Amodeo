@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+unidecode
+numpy
+pyarrow
+scikit-learn
